@@ -1,0 +1,17 @@
+.container{
+  width: 75%;
+  margin: 0 auto;  
+  align-items: center;
+  padding: 20px;
+}
+.flex-box{
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.container h2{
+    text-align: center;
+
+}
